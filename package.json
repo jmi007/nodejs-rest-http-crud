@@ -2,7 +2,7 @@
   "name": "nodejs-rest-http-crud",
   "version": "4.0.0",
   "description": "",
-  "author": "Red Hat, Vietnam",
+  "author": "Red Hat, Inc Changed",
   "license": "Apache-2.0",
   "scripts": {
     "pretest": "eslint --ignore-path .gitignore .",
