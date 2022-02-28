@@ -34,7 +34,7 @@ Then create a new project using the `oc` commands
 
 `oc new-project fun-node-fun`
 
-For this example, you will also need a postgres db running on your Openshift cluster.
+For this example, you will also need a postgres db running on your Openshift cluster. OK.
 
 `oc new-app -e POSTGRESQL_USER=luke -ePOSTGRESQL_PASSWORD=secret -ePOSTGRESQL_DATABASE=my_data centos/postgresql-10-centos7 --name=my-database`
 
